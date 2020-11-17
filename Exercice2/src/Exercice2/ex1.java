@@ -10,6 +10,7 @@ public class ex1 {
 
 		 int vie = 5;
 		 int nombre;
+		
 		 
 		 do
 		 {
